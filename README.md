@@ -34,4 +34,5 @@ You will only need to run the application once, if using the following commands:
 ``` forever start```
 
 Additionally, you can stop the bot from running using:
-`` forever stopall ```
+
+``` forever stopall ```
