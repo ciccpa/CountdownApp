@@ -19,7 +19,7 @@ This was done to help learn building with Node.js and to also get familiar with 
 ``` npm install twit —save ```
 
 ### 4. Create config.js file with YOUR personal Twitter API key. 
-Instructions [here](https://developer.twitter.com/en/docs/labs/filtered-stream/quick-start).
+Instructions [here](https://developer.twitter.com/en/apply-for-access).
 I have included my files as an example of what they should look like. 
 
 ### 5. A folder of gifs/images (you choose how many you want) to be randomly selected. 
