@@ -24,7 +24,7 @@ I have included my files as an example of what they should look like.
 
 ### 5. A folder of gifs/images (you choose how many you want) to be randomly selected. 
 Gifs/images do NOT repeat, once a gif has been tweeted, it will cycle through until there are none left. ("No random numbers.")
-Media attachments not required to get this project to work. Refer to twit package details for more: https://www.npmjs.com/package/twit 
+Media attachments not required to get this project to work. Refer to [twit](https://www.npmjs.com/package/twit)  package details for more.
 
 When ready, the project can be deployed to a server such as Heroku or an AWS.
 You will only need to run the application once, if using the following commands: 
