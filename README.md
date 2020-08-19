@@ -30,6 +30,7 @@ When ready, the project can be deployed to a server such as Heroku or an AWS.
 You will only need to run the application once, if using the following commands: 
 
 ``` node bot.js``` 
+
 ``` forever start```
 
 Additionally, you can stop the bot from running using:
